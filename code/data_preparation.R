@@ -1,4 +1,4 @@
-setwd("D:/project/FlixBus")
+setwd("D:/project/ticket_booked_pred")
 
 # load libraries -------------------------------------------------------------
 
