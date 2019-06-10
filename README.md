@@ -32,4 +32,4 @@ In case of regression, mean is used to generate prediction and for classificatio
 CatBoost is an algorithm for gradient boosting on decision trees
 It provides state of the art results and it is competitive with any leading machine learning algorithm on the performance front
 
-#### H4 : for more details, please reach out to me at shilparai1407@gmail.com
+#### For more details, please reach out to me at shilparai1407@gmail.com
