@@ -27,7 +27,7 @@ These methods are suitable for forecasting data with no clear trend or seasonal 
 
 **Random Forest**  
 It’s is a ensemble model. It generates multiple small decision trees from random subsets of the data (hence the name “Random Forest”)
-In case of regression, mean is used to generate prediction and for classification the majority vote is considered to classify a class
+In case of regression, mean is used to generate prediction and for classification the majority vote is considered to classify a class  
 **CatBoost**  
 CatBoost is an algorithm for gradient boosting on decision trees
 It provides state of the art results and it is competitive with any leading machine learning algorithm on the performance front
