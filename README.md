@@ -1,4 +1,4 @@
-# H1 Machine Learning to Predict Bus Ticket Sales
+# Machine Learning to Predict Bus Ticket Sales
 
 In this repository, I have built a model to predict the sales of ticket on daily level. Given data has following variables
 
